@@ -75,7 +75,7 @@
         }
 
         a {
-            color: #fdfeff;
+            color: #6baef2;
             text-decoration: none;
             font-weight: bold;
             margin-left: 5px;

@@ -80,7 +80,7 @@
 
         <div class="stat">
             <div class="stat-item">
-                Belum Dibaca
+                Menunggu
                 <b>{{ $belum }}</b>
             </div>
             <div class="stat-item">
